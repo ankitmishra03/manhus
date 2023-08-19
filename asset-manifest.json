@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/manhus/static/css/main.f44785ff.css",
+    "main.js": "/manhus/static/js/main.1183412d.js",
+    "static/js/787.cebcd87b.chunk.js": "/manhus/static/js/787.cebcd87b.chunk.js",
+    "index.html": "/manhus/index.html",
+    "main.f44785ff.css.map": "/manhus/static/css/main.f44785ff.css.map",
+    "main.1183412d.js.map": "/manhus/static/js/main.1183412d.js.map",
+    "787.cebcd87b.chunk.js.map": "/manhus/static/js/787.cebcd87b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f44785ff.css",
+    "static/js/main.1183412d.js"
+  ]
+}
